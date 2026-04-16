@@ -1,8 +1,8 @@
 from monitor import get_latency
 
 servers = {
-    "Server A": "http://127.0.0.1:5001",
-    "Server B": "http://127.0.0.1:5002"
+    "Server A": "https://example.com",
+    "Server B": "https://google.com"
 }
 
 history = {"Server A": [], "Server B": []}
